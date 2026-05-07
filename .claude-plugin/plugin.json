@@ -1,0 +1,18 @@
+{
+  "name": "reportar",
+  "version": "1.0.0",
+  "description": "Registra issues de mejora o fix en GitHub cuando el agente detecta un problema mientras trabaja con un plugin o ecosistema",
+  "author": {
+    "name": "kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/reportar",
+  "repository": {
+    "url": "https://github.com/kvothesson/reportar.git"
+  },
+  "skills": [
+    {
+      "name": "reportar",
+      "path": "skills/reportar/SKILL.md"
+    }
+  ]
+}
