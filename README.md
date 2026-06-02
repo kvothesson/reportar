@@ -10,6 +10,16 @@ Se instala una vez y funciona en cualquier contexto: detecta el repo correcto po
 claude --plugin-dir /ruta/al/plugin
 ```
 
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/reportar ~/reportar
+cd ~/reportar
+codex
+```
+
 O agregalo al marketplace que uses.
 
 ## Uso
